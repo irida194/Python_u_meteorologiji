@@ -1,0 +1,30 @@
+Ubacene izmene u 01cas.ipynb i dodat 02
+>
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Dec 13 14:15:14 2023 +0100
+#
+# On branch master
+# Changes to be committed:
+#	modified:   01cas.ipynb
+#	new file:   02iskazi_kontrole_toka.ipynb
+#
+# Untracked files:
+#	.ipynb_checkpoints/
+#	03liste.ipynb
+#	04recnik_zapis_set.ipynb
+#	05Funkcije.ipynb
+#	05funkcijedodatak_sveta.ipynb
+#	06nizovi_regex.ipynb
+#	07numpy.ipynb
+#	08numpy.ipynb
+#	09scipy_sympy.ipynb
+#	10git_api.ipynb
+#	10pandas.ipynb
+#	citanje_pisanje_fajlova.ipynb
+#	domaci/
+#	ifile/
+#	proba.txt
+#
